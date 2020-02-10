@@ -1,5 +1,5 @@
 {
-    "name": "czende/ecomail-plugin",
+    "name": "oxyshop/sylius-ecomail-plugin",
     "type": "sylius-plugin",
     "description": "Sylius plguin for integration with ecomailapp.",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "sylius/sylius": "dev-master",
+        "sylius/sylius": "^1.6",
         "ecomailcz/ecomail": "dev-master"
     },
     "require-dev": {
